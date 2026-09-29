@@ -20,10 +20,9 @@ SQLite
 - Update Status
 
 ## UI
-<img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/7f0c46de-f7bf-4c88-90da-45cc1563c094" />
+<img width="1278" height="803" alt="image" src="https://github.com/user-attachments/assets/67fb5550-6abf-47ed-9549-6721b8390cf5" />
 <img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/63f3adc0-a986-4f9e-8d45-ab0f7bfb230c" />
 
-s
 ## How It Works
 Built using Laravel's MVC structure:
 - **Routes** (`routes/web.php`) define the URLs
